@@ -15,6 +15,7 @@
   },
   "keywords": [],
   "author": "",
+  "git-checks": false,
   "license": "ISC",
   "devDependencies": {
     "@changesets/cli": "^2.28.1"
