@@ -5,7 +5,8 @@
     "registry": "https://npm.pkg.github.com"
   },
   "repository": {
-    "url": "https://github.com/ayugioh2003/monorepo-demo"
+    "type": "git",
+    "url": "git+https://github.com/ayugioh2003/monorepo-demo.git"
   },
   "description": "",
   "main": "index.js",
