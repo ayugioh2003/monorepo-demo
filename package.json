@@ -1,5 +1,5 @@
 {
-  "name": "monorepo-demo",
+  "name": "@ayugioh2003/monorepo-demo",
   "version": "1.0.0",
   "repository": {
     "url": "https://github.com/pricelastic/node-server-utils"
