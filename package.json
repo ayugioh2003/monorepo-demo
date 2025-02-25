@@ -1,6 +1,9 @@
 {
   "name": "monorepo-demo",
   "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/pricelastic/node-server-utils"
+  },
   "description": "",
   "main": "index.js",
   "scripts": {
