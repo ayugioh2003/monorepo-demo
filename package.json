@@ -10,7 +10,7 @@
     "package2": "pnpm --filter=@ayugioh2003/package2",
 
     "ci:version": "changeset version",
-    "ci:publish": "changeset publish -r",
+    "ci:publish": "pnpm publish -r",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
