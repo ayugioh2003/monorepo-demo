@@ -5,7 +5,7 @@
     "registry": "https://npm.pkg.github.com"
   },
   "repository": {
-    "url": "https://github.com/pricelastic/node-server-utils"
+    "url": "https://github.com/ayugioh2003/monorepo-demo"
   },
   "description": "",
   "main": "index.js",
