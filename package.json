@@ -1,6 +1,9 @@
 {
   "name": "@ayugioh2003/monorepo-demo",
   "version": "1.0.0",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "repository": {
     "url": "https://github.com/pricelastic/node-server-utils"
   },
