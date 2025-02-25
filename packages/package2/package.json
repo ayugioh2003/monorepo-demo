@@ -1,0 +1,10 @@
+{
+  "name": "@ayugioh2003/package2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

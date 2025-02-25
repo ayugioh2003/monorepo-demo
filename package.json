@@ -1,0 +1,16 @@
+{
+  "name": "monorepo-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "app1": "pnpm --filter=@ayugioh2003/app1",
+    "app2": "pnpm --filter=@ayugioh2003/app2",
+    "package1": "pnpm --filter=@ayugioh2003/package1",
+    "package2": "pnpm --filter=@ayugioh2003/package2",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
