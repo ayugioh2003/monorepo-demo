@@ -1,5 +1,9 @@
 name: Changesets
-on: workflow_dispatch
+on: 
+  workflow_dispatch:
+  push:
+    branches:
+      - "main"
 env:
   CI: true
 jobs:
