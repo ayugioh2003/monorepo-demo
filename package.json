@@ -15,7 +15,6 @@
     "app2": "pnpm --filter=@ayugioh2003/app2",
     "package1": "pnpm --filter=@ayugioh2003/package1",
     "package2": "pnpm --filter=@ayugioh2003/package2",
-
     "changeset": "changeset",
     "ci:version": "changeset version",
     "ci:publish": "changeset publish",
@@ -26,6 +25,7 @@
   "git-checks": false,
   "license": "ISC",
   "devDependencies": {
+    "@changesets/changelog-github": "^0.5.1",
     "@changesets/cli": "^2.28.1"
   }
 }
