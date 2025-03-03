@@ -6,7 +6,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ayugioh2003/monorepo-demo.git"
+    "url": "https://github.com/ayugioh2003/monorepo-demo.git"
   },
   "description": "",
   "main": "index.js",
