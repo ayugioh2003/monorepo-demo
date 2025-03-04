@@ -1,6 +1,7 @@
 {
   "name": "@ayugioh2003/package1",
   "version": "1.0.1",
+  "private": false,
   "main": "index.js",
   "scripts": {
     "dev": "node index.js"
