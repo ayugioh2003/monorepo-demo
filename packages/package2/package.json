@@ -1,6 +1,6 @@
 {
   "name": "@ayugioh2003/package2",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "priviate": false,
   "main": "index.js",
   "scripts": {
