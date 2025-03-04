@@ -8,6 +8,12 @@ env:
   CI: true
 jobs:
   version:
+    # IMPORTANT: prevent this action from running on forks.
+    # https://davistobias.com/articles/adding-changeset/
+    if: github.repository == 'ayugioh2003/monorepo-demo'
+    permissions:
+      contents: write # to create release (changesets/action)
+      pull-requests: write # to create pull request (changesets/action)
     timeout-minutes: 15
     runs-on: ubuntu-latest
     steps:
