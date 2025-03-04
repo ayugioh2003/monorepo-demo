@@ -14,7 +14,7 @@
     "package2": "pnpm --filter=@ayugioh2003/package2",
     "changeset": "changeset",
     "ci:version": "changeset version",
-    "ci:publish": "changeset publish",
+    "ci:publish": "changeset publish --filter ",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
